@@ -70,7 +70,7 @@ Sobre esta división, indicar lo siguiente:
     3. Extraeremos los dos productos con mayores ventas globales, que serán los que utilizaremos en el análisis principal.
     4. Agruparemos los datos de pedidos por dias para los productos elegidos, sumando los datos que coincidan en el mismo día (si existe alguna coincidencia).
 3. Análisis
-    1. Expondremos los datos de ventas de los dos productos más vendidos y haremos un análisis de la serie temporal resultante, con datos de ventas por días.
+    1. Expondremos los datos de ventas del producto más vendido y haremos un análisis de la serie temporal resultante, con datos de ventas por días.
     2. Analizaremos si la serie es o no estacionaria y si presenta algún tipo de patrón de estacionalidad. 
     3. Con ello determinaremos el mejor modelo para realizar un forecast de ventas durante el próximo mes.
 
