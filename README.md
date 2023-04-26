@@ -79,3 +79,5 @@ NOTA: Se dividirá el dataset en dos conjuntos:
 1. Entrenamiento, con toda la fact table, menos los dos últimos meses.
 2. Test, con los dos últimos meses de ventas, para comprobar el rendimiento del modelo con datos que éste no había tenido en cuenta en el entrenamiento.
 3. El forecast final será, claro está, sin datos conocidos (ventas en enero de 2018).
+
+Más información en la web [www.jlquintero.com](https://jlquintero.com) o en la [web del proyecto](https://lily-quart-224.notion.site/Series-temporales-Superstore-Dataset-c523ba2cea604804afd8dba5cd8396f9)
